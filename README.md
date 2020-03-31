@@ -5,3 +5,6 @@ Qualitative research seems rather network-shaped, so why not combine it with LOD
 More on REFI-QDA: https://www.qdasoftware.org/downloads-project-exchange/ (used by ATLAS.ti, Dedoose, f4analyse, MAXQDA, NVivo, QDAMiner, Quirkos and Transana)
 
 More on LODcloud: https://lod-cloud.net
+
+
+Might help: https://rml.io/docs/rml/tutorials/xml/
