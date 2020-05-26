@@ -12,7 +12,6 @@ Some inspiration from semantic web aka Linked Data aka Knowledge Graph:
 - ... or actually a giant network or sources of which DBpedia is only one https://lod-cloud.net/
 - Many vocabularies are used, many of which are in this list https://lov.linkeddata.es/dataset/lov
 - DBpedia is trying to fit text into triples, where Wikidata starts with multi-lingual statements from the get-go https://en.wikipedia.org/wiki/Wikidata
-- Many, many, many tools for entry, analysis, visualisation
-At some point there will be atlas.ti-like tools built on this, but in the mean time atlas.ti users can still learn from it
+- Many, many, many tools for entry, analysis, visualisation. At some point there will be atlas.ti-like tools built on this, but in the mean time atlas.ti users can still learn from it
 
 Might help: https://rml.io/docs/rml/tutorials/xml/
