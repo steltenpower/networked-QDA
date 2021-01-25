@@ -1,4 +1,7 @@
-# connecting-REFI-QDA-and-LODcloud
+# networkedQDA QDA=(Qualitative Data Analysis)
+
+connecting-REFI-QDA-and-LODcloud
+
 Qualitative research seems rather network-shaped, so why not combine it with LODcloud via its REFI-QDA standard 
 ... and be able to query the combination?
 
