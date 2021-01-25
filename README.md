@@ -1,4 +1,4 @@
-# networkedQDA Qualitative Data Analysis
+# networked Qualitative Data Analysis
 
 connecting-REFI-QDA-and-LODcloud
 
