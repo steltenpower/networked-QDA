@@ -1,4 +1,4 @@
-# networkedQDA QDA=(Qualitative Data Analysis)
+# networkedQDA Qualitative Data Analysis
 
 connecting-REFI-QDA-and-LODcloud
 
