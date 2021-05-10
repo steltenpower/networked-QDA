@@ -1,5 +1,5 @@
 # networked Qualitative Data Analysis
-
+<img src="https://repository-images.githubusercontent.com/218549218/bb6d6880-7892-11eb-8e17-3a5a74118a36">
 connecting-REFI-QDA-and-LODcloud
 
 Qualitative research seems rather network-shaped, so why not combine it with LODcloud via its REFI-QDA standard 
