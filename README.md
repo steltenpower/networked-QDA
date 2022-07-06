@@ -3,7 +3,7 @@
 connecting-REFI-QDA-and-LODcloud
 
 Qualitative research seems rather network-shaped, so why not combine it with LODcloud via its REFI-QDA standard 
-... and be able to query the combination?
+... and be able to query the combination? Well, sometimes you don't want your thoughts steered upfront by picking vocabularies. But maybe ...
 
 More on REFI-QDA: https://www.qdasoftware.org/downloads-project-exchange/ (used by ATLAS.ti, Dedoose, f4analyse, MAXQDA, NVivo, QDAMiner, Quirkos and Transana)
 
