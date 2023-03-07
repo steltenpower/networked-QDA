@@ -7,6 +7,8 @@ Qualitative research seems rather network-shaped, so why not combine it with LOD
 
 More on REFI-QDA: https://www.qdasoftware.org/downloads-project-exchange/ (used by ATLAS.ti, Dedoose, f4analyse, MAXQDA, NVivo, QDAMiner, Quirkos and Transana)
 
+See also: https://rock.science/
+
 Some inspiration from semantic web aka Linked Data aka Knowledge Graph:
 - relations ... https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/example-graph.jpg
 - ... can be embedded in all sorts of documents ... https://en.wikipedia.org/wiki/RDFa
